@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juan Jiménez</h1>
 <h3 align="center">Aspiring Full-Stack Web Developer from México</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nefiox&label=Profile%20views&color=0e75b6&style=flat" alt="nefiox" /> </p>
-
 - 🔭 I’m currently working on [GameFrags (personal project)](https://github.com/Nefiox/GameFrags)
 
 - 🌱 I’m currently learning **React, Bulma & Vue**
