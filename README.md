@@ -1,8 +1,6 @@
 ## Hi 👋, I'm Juan Jiménez
 ### Aspiring Full-Stack Web Developer from México
 
-- 🔭 I’m currently working on [GameFrags (personal project)](https://github.com/Nefiox/GameFrags)
-
 - 🌱 I’m currently learning **React, Bulma & Vue**
 
 - 💬 Ask me about **JavaScript, CSS & Videogames 👾**
